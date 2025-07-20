@@ -1,2 +1,2 @@
-# sitio-jsrdines-xalapa
+# sitio-jardines-xalapa
 sitio-jardines-xalapa
